@@ -8,7 +8,7 @@ services:
     environment:
       MYSQL_DATABASE: docker_development
       MYSQL_ROOT_PASSWORD: password
-      MYSQL_USER: rooｔ
+      MYSQL_USER: root
       MYSQL_PASSWORD: password
 
   web:
